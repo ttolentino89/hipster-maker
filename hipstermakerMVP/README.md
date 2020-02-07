@@ -11,3 +11,7 @@ II. Binary Jazz Story "Genre"nator
 III. Binary Jazz Music "Genre"nator
 
 (See how I used Roman numerals instead of of numbers? Gosh I'm such a hipster.)
+
+Post-MVP goals:
+
+Mobile version admittedly needs a lot of work, and I'd really like to get the hamburger menu functional. But honestly, if you're viewing the Hipster Maker on a phone and not a vintage tube monitor computer, are you really even a hipster at all?
